@@ -7,3 +7,13 @@ A simulation of Light interaction and Heat transduction in biological tissue
 </p>
 
 [Summary](/figs/Binder1.pdf)
+
+<p float="left">
+  <img src="/figs/Binder1.jpg" width="400" />
+  <img src="/figs/Binder2.jpg" width="400" /> 
+</p>
+
+<p float="left">
+  <img src="/figs/Binder3.jpg" width="400" />
+  <img src="/figs/Binder4.jpg" width="400" /> 
+</p>
