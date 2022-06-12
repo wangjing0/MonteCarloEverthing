@@ -1,4 +1,4 @@
-# Monte Carlo Everthing
+# Monte Carlo Everything
 
 A simulation of Light interaction and Heat transduction in biological tissue
 <p float="left">
